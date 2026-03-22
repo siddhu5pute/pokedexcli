@@ -51,4 +51,8 @@ go build .
 
 ## Author
 
-Built from scratch by [siddhu5pute](https://github.com/siddhu5pute)
+Built from scratch by **Siddharth Pachpute** — [github.com/siddhu5pute](https://github.com/siddhu5pute)
+EOF
+```
+
+
